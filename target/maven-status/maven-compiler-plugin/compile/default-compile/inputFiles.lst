@@ -1,6 +1,10 @@
+C:\Users\sinaf\challenges\java-spring-joins-and-associations\src\main\java\com\launchacademy\launchrpg\repositories\SpellRepository.java
 C:\Users\sinaf\challenges\java-spring-joins-and-associations\src\main\java\com\launchacademy\launchrpg\models\Archetype.java
 C:\Users\sinaf\challenges\java-spring-joins-and-associations\src\main\java\com\launchacademy\launchrpg\repositories\PlayerCharacterRepository.java
 C:\Users\sinaf\challenges\java-spring-joins-and-associations\src\main\java\com\launchacademy\launchrpg\repositories\ArchetypeRepository.java
+C:\Users\sinaf\challenges\java-spring-joins-and-associations\src\main\java\com\launchacademy\launchrpg\models\School.java
+C:\Users\sinaf\challenges\java-spring-joins-and-associations\src\main\java\com\launchacademy\launchrpg\repositories\SchoolRepository.java
 C:\Users\sinaf\challenges\java-spring-joins-and-associations\src\main\java\com\launchacademy\launchrpg\models\PlayerCharacter.java
+C:\Users\sinaf\challenges\java-spring-joins-and-associations\src\main\java\com\launchacademy\launchrpg\models\Spell.java
 C:\Users\sinaf\challenges\java-spring-joins-and-associations\src\main\java\com\launchacademy\launchrpg\seeders\DemoSeeder.java
 C:\Users\sinaf\challenges\java-spring-joins-and-associations\src\main\java\com\launchacademy\launchrpg\DemoApplication.java

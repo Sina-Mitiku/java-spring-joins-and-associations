@@ -1,6 +1,6 @@
 com\launchacademy\launchrpg\repositories\ArchetypeRepository.class
-com\launchacademy\launchrpg\DemoApplication.class
-com\launchacademy\launchrpg\models\Archetype.class
 com\launchacademy\launchrpg\models\PlayerCharacter.class
 com\launchacademy\launchrpg\seeders\DemoSeeder.class
 com\launchacademy\launchrpg\repositories\PlayerCharacterRepository.class
+com\launchacademy\launchrpg\DemoApplication.class
+com\launchacademy\launchrpg\models\Archetype.class
